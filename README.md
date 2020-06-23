@@ -1,6 +1,6 @@
 # MapleTrapStory Core (MTSCore) 
-## Core Module Source Repo
-### v62 Original MapleStory Private Server                                                                           
+## v62 Original MapleStory Private Server         
+Core Module Source Repo
 __________________________________________________________________________________________________                                                        
 
 ![image](https://i.imgur.com/ljpRvVG.png)
